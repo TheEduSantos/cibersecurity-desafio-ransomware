@@ -44,7 +44,7 @@ How to use:
 # cibersecurity-desafio-ransomware
 Resolução de um desafio de ransomware da DIO
 
-Um código com a função de encriptar e descriptar arquivos com uma chave de criptografia fixa e depois permite descriptografar o arquivo se a chave correta for fornecida. Vale ressaltar que esse programa não é seguro e não deve ser usado para fins maliciosos, ou para proteger dados importantes, pois a chave de criptografia está embutida no código e é facilmente acessível.
+Um código com a função de criptografar e descriptografar arquivos com uma chave de criptografia fixa e depois permite descriptografar o arquivo se a chave correta for fornecida. Vale ressaltar que esse programa não é seguro e não deve ser usado para fins maliciosos, ou para proteger dados importantes, pois a chave de criptografia está embutida no código e é facilmente acessível.
 
 Modo de usar:
 
